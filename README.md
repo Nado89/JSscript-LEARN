@@ -1,0 +1,2 @@
+# JSscript-LEARN
+JS ASSIGNMENT
